@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<iostream>
 
 void diamond(int rows){
 		int space=rows-1;
