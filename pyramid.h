@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<iostream>
 
 void pyramid(int length){
 	int space=length-1;
