@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<iostream>
 
 void reversePyramid(int length){
 	int space=0;
