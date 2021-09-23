@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<iostream>
 
 void ReverseRightTriangleLeftLeaning(int length){
 	for(int i=1; i<=length; i++){
