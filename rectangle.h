@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<iostream>
 
 void rectangle(int length, int breadth){
 	for(int i=1; i<=length; i++){
